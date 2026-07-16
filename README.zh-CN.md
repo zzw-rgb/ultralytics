@@ -55,6 +55,7 @@
 ## 📄 文档
 
 请参阅下文了解快速安装和使用示例。有关训练、验证、预测和部署的全面指南，请参阅我们的完整 [Ultralytics 文档](https://docs.ultralytics.com/)。
+如需使用自己的数据，请参阅[从零开始训练自定义模型](docs/自定义模型训练教程.md)。
 
 <details open>
 <summary>安装</summary>
