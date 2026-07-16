@@ -1,0 +1,7 @@
+path: /home/zros/EmbodyAI/Yolo_test/yolov26/datasets/my_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: nailong
